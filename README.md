@@ -43,14 +43,6 @@
 - **Role**: UI/UX Designer
 - **Description**: Designed the user interface for a health management app focused on glucose monitoring.
 
-### Frontend Developer of MoilApp
-- **Role**: Frontend Developer
-- **Description**: Developed the frontend for a mobile application aimed at facilitating oil monitoring.
-
-### UI/UX Designer and Frontend Developer of MoilWeb
-- **Role**: UI/UX Designer & Frontend Developer
-- **Description**: Led the design and development of a web application companion for MoilApp.
-
 ## 🌱 Currently Learning
 - Exploring advanced concepts in **React.js** and **Web Accessibility**.
 - Diving into **Progressive Web Apps (PWA)** development.
