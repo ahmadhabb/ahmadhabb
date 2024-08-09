@@ -14,7 +14,7 @@
 ## 📚 Certifications & Education
 
 - **Informatics Undergraduate Student**
-  - GPA: 3.68
+  - GPA: 3.68/4.0
 - **Certifications**:
   - Computer Laboratory Assistant for Linear Algebra course, Odd Semester, Academic Year 2022/2023
   - Mathematics for Machine Learning and Data Science Specialization
