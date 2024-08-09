@@ -56,7 +56,6 @@
 - Diving into **Progressive Web Apps (PWA)** development.
 
 ## 📫 Get in Touch
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **Portfolio**: [Your Portfolio Website](#)
+- **LinkedIn**: [Ahmad Habibi](https://www.linkedin.com/in/ahmad-habibi-35b657301/)
+- **Email**: [ahmadhab247@gmail.com](ahmadhab247@gmail.com)
 
