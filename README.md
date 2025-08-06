@@ -8,7 +8,7 @@
 - **Frontend Development**: Translating designs into responsive, interactive, and efficient web applications.
 - **Tools & Technologies**: 
   - **Design**: Figma, Adobe XD, Sketch
-  - **Frontend**: HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind
+  - **Frontend**: Qt, HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind
   - **Version Control**: Git, GitHub
 
 ## 📚 Certifications & Education
