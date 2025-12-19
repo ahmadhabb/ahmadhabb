@@ -18,7 +18,7 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: herian-22
+          github_user_name: ahmadhabb
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#1DA1F2
 
