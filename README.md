@@ -104,4 +104,4 @@ Focused on edge computing, real-time vision systems, and hybrid IoT development.
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=BF124D&height=120&section=footer)
