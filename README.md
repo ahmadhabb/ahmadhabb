@@ -92,7 +92,7 @@ Focused on edge computing, real-time vision systems, and hybrid IoT development.
   <img src="https://raw.githubusercontent.com/ahmadhabb/ahmadhabb/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
 <p align="center">
-  <b>🗓️ Updated: <span id="date">December 2025</span></b>
+  <b>🗓️ Updated: <span id="date">January 2026</span></b>
 </p>
 
 
